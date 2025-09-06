@@ -1,0 +1,22 @@
+# Lake build output
+/build
+/.lake
+/lake-packages
+
+# VSCode / Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# MacOS system files
+.DS_Store
+
+# Emacs / other editors
+.*.elc
+
+# Lean-specific cache
+.lean/
+
+# Optional: compiled docs
+/docs
